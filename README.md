@@ -1,2 +1,2 @@
 # NGGYU.EXE
-Never gonna give you up
+### a prank program to rickroll your friends!
