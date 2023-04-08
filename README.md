@@ -1,5 +1,5 @@
 # NGGYU.EXE
-## a prank program to rickroll your friends!
+### a prank program to rickroll your friends!
 
 ### Update: there are new executables that lead to different rickrolls
 
