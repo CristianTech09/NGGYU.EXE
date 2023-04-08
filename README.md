@@ -1,9 +1,9 @@
 # NGGYU.EXE
-### a prank program to rickroll your friends!
+## a prank program to rickroll your friends!
 
-#### Update: there are new executables that lead to different rickrolls
+### Update: there are new executables that lead to different rickrolls
 
-#### Credits: all the videos i got from: (Obviously from Rick Astley's channel), also from koshkamatew and SuperKek
+### Credits: all the videos i got from: (Obviously from Rick Astley's channel), also from koshkamatew and SuperKek
 
 
 ![alt text](https://raw.githubusercontent.com/CristianTech09/NGGYU.EXE/main/Screen.png)
